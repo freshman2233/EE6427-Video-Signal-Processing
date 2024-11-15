@@ -10,6 +10,16 @@
 
 2.PPT示例参考答案
 
+
+
+【Swin Transformer论文精读【论文精读】】 
+
+https://www.bilibili.com/video/BV13L4y1475U
+
+没看懂 swin的可以看沐神讲的这个
+
+
+
 ## 2.Find out a mistake 答案有错
 
 As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
