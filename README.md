@@ -1,4 +1,4 @@
-# EE427 Video Signal Processing
+# EE6427 Video Signal Processing
 
 # 1.Introduction
 
